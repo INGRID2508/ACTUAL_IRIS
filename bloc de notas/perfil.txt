@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title> Inicio </title>
+</head>
+<body background="imagenes/medidascovid.jpg">
+<center>
+<br>
+<font face="arial"; color="red"><h1><b> JUNTOS VENCEREMOS AL COVID 19 </b></h1></font></center>
+<font face size="6"; color="blue"><p> si presentas algun sintoma, acude al centro de salud mas sercano. Recuerda que cuidarnos del covid 19 es una responabilidad de todos. <a href="https://actualiris430991302.wordpress.com/2020/12/17/violeta-bermudez-no-podemos-afirmar-o-negar-que-habra-una-segunda-ola/"> Demos estar alertas para que no nosnsorprenda una segunda ola de covid 19 </a> y no seas 
+uno mas en las cifras de contagiados y se mas responsable. </p></font>
